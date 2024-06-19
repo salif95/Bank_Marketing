@@ -8,10 +8,11 @@ L’objectif de "Bank's Deposit Prediction" vise à prédire si un client souscr
 Notre but est de saisir les éléments déterminants dans les choix des clients de souscrire à des dépôts à terme et de mettre en place des modèles de prédiction capables d'anticiper ces résultats avec exactitude.
 
 # Dataset :-
-Les données sont liées aux campagnes de marketing direct d'une institution bancaire portugaise. L'ensemble de données utilisé dans ce projet provient de l'ensemble de données Bank Marketing créé par S. Moro, P. Rita et P. Cortez à l'Iscte - Institut universitaire de Lisbonne. Parmi les quatre ensembles de données disponibles, nous avons utilisé bank-full.csv qui contient contient 21 variables fournissant des informations sur 41188 clients.20 variables prédictives et y qui la variable cible. 
+Les données sont liées aux campagnes de marketing direct d'une institution bancaire portugaise. L'ensemble de données utilisé dans ce projet provient de l'ensemble de données Bank Marketing créé par S. Moro, P. Rita et P. Cortez à l'Iscte - Institut universitaire de Lisbonne. Parmi les quatre ensembles de données disponibles, nous avons utilisé bank_additionnal_full.csv, qui contient 21 variables fournissant des informations sur 41188 clients.20 variables prédictives et y qui la variable cible. 
 Pour plus d'informations sur l'ensemble de données utilisé, reportez-vous à https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 # Project Work flow :-
 
-    .Import the necessary librairies
-    .Reading Dataset and Basic Data Exploration
+    .Installations et Mise à jour
+    .Importations des librairies nécessaires
+    .Description des données
